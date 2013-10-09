@@ -12,7 +12,7 @@ public class cipher {
 
 	public static int shiftLength = 5;
 
-	public static String stringToEncrypt = "Few black taxis drive up major roads on quiet hazy nights and I dont know what I will do about this crazy cypher";
+	public static String stringToEncrypt = "Few black taxis drive up major roads on quiet hazy nights";
 
 	/**
 	 * @param args
